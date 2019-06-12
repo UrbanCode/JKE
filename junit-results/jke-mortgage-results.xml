@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+   <testsuite name="JUnitXmlReporter" errors="0" tests="0" failures="0" time="0" timestamp="2013-05-24T10:23:58" />
+   <testsuite name="JUnitXmlReporter.constructor" errors="0" skipped="0" tests="12" failures="0" time="0.006" timestamp="2013-05-24T10:23:58">
+      <properties>
+         <property name="java.vendor" value="Sun Microsystems Inc." />
+         <property name="compiler.debug" value="on" />
+         <property name="project.jdk.classpath" value="jdk.classpath.1.6" />
+      </properties>
+      <testcase classname="JUnitXmlReporter.constructor" name="testWithdrawFunds_expectSuccess" time="0.006">
+      </testcase>
+      <testcase classname="JUnitXmlReporter.constructor" name="testWithdrawFunds_expectFailure" time="0">
+      </testcase>
+      <testcase classname="JUnitXmlReporter.constructor" name="testAutoPayment_expectSuccess" time="0">
+      </testcase>
+      <testcase classname="JUnitXmlReporter.constructor" name="testAutoPayment_expectFailure" time="0.006">
+      </testcase>   
+      <testcase classname="JUnitXmlReporter.constructor" name="testRecycledLoan_expectSuccess" time="0.006">
+      </testcase>
+      <testcase classname="JUnitXmlReporter.constructor" name="testRecycledLoan_expectFailure" time="0.006">
+      </testcase>
+      <testcase classname="JUnitXmlReporter.constructor" name="testInterestAdjust_expectSuccess" time="0">
+      </testcase>
+      <testcase classname="JUnitXmlReporter.constructor" name="testInterestAdjust_expectFailure" time="0.006">
+      </testcase>
+      <testcase classname="JUnitXmlReporter.constructor" name="testAutoApproveCredit_expectSuccess" time="0">
+      </testcase>
+      <testcase classname="JUnitXmlReporter.constructor" name="testAutoApproveCredit_expectFailure" time="0.006">
+      </testcase>
+      <testcase classname="JUnitXmlReporter.constructor" name="testAutoRejectCredit_expectSuccess" time="0">
+      </testcase>
+      <testcase classname="JUnitXmlReporter.constructor" name="testAutoRejectCredit_expectFailure" time="0.006">
+      </testcase>
+</testsuite>
+</testsuites>
