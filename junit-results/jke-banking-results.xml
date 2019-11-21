@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
    <testsuite name="JUnitXmlReporter" errors="0" tests="0" failures="0" time="0" timestamp="2019-05-24T10:23:58" />
-   <testsuite name="JUnitXmlReporter.constructor" errors="0" skipped="0" tests="18" failures="0" time="0.006" timestamp="2019-05-24T10:23:58">
+   <testsuite name="JUnitXmlReporter.constructor" errors="0" skipped="0" tests="19" failures="0" time="0.006" timestamp="2019-05-24T10:23:58">
       <properties>
          <property name="java.vendor" value="Sun Microsystems Inc." />
          <property name="compiler.debug" value="on" />
@@ -41,6 +41,8 @@
       <testcase classname="JUnitXmlReporter.constructor" name="JavaBankingIntegrationAPITest" time="0.010">
       </testcase>
       <testcase classname="JUnitXmlReporter.constructor" name="JavaBankingExpectPassUnitTest" time="0.010">
+      </testcase>
+      <testcase classname="JUnitXmlReporter.constructor" name="JavaBankingExpectFailUnitTest" time="0.010">
       </testcase>
    </testsuite>
 </testsuites>
