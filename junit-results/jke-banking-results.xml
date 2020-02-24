@@ -46,5 +46,9 @@
       </testcase>
       <testcase classname="JUnitXmlReporter.constructor" name="JavaBankingExpectServerExhaustedResponseUnitTest" time="0.050">
       </testcase>
+      <testcase classname="JUnitXmlReporter.constructor" name="JavaBankingExpectSuccessfulResponseUnitTest" time="0.050">
+      </testcase>
+      <testcase classname="JUnitXmlReporter.constructor" name="JavaBankingExpectFailedResponseUnitTest" time="0.050">
+      </testcase>
    </testsuite>
 </testsuites>
