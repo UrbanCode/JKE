@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+   <testsuite name="JUnitXmlReporter" errors="0" tests="0" failures="0" time="0" timestamp="2013-05-24T10:23:58" />
+   <testsuite name="JUnitXmlReporter.constructor" errors="0" skipped="0" tests="10" failures="1" time="0.006" timestamp="2013-05-24T10:23:58">
+      <properties>
+         <property name="java.vendor" value="Sun Microsystems Inc." />
+         <property name="compiler.debug" value="on" />
+         <property name="project.jdk.classpath" value="jdk.classpath.1.6" />
+      </properties>
+      <testcase classname="JUnitXmlReporter.constructor" name="should default to total run count" time="0.006">
+      </testcase>
+      <testcase classname="JUnitXmlReporter.constructor" name="should default path to an empty string" time="0.006">
+      </testcase>
+      <testcase classname="JUnitXmlReporter.constructor" name="should default consolidate to true" time="0">
+      </testcase>
+      <testcase classname="JUnitXmlReporter.constructor" name="should default useDotNotation to true" time="0">
+      </testcase>
+      <testcase classname="JUnitXmlReporter.constructor" name="should default to total count" time="0.006">
+      </testcase>   
+      <testcase classname="JUnitXmlReporter.constructor" name="should default to run count" time="0.006">
+      </testcase>
+      <testcase classname="JUnitXmlReporter.constructor" name="should default to average" time="0.006">
+      </testcase>
+      <testcase classname="JUnitXmlReporter.constructor" name="should default to median" time="0.006">
+      </testcase>
+      <testcase classname="JUnitXmlReporter.constructor" name="should default to geometric center" time="0.006">
+      </testcase>
+      <testcase classname="JUnitXmlReporter.constructor" name="should default to running average" time="0.006">
+      </testcase>
+      <testcase classname="JUnitXmlReporter.constructor" name="should default to threshold template" time="0.006">
+          <failure type="InsufficientThreshold"> value of 7 did not meet threshold of 10</failure>
+      </testcase>
+</testsuite>
+</testsuites>
